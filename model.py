@@ -1,8 +1,3 @@
-# -*- coding:utf-8 -*-
-"""
-author: win10
-date: 2021-11-24
-"""
 
 import torch
 import torchvision
