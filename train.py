@@ -116,5 +116,5 @@ if __name__ == '__main__':
         # early_stopping(val_loss / epoch_step_val, model)
         # if early_stopping.early_stop:
         #     break
-    torch.save(model, 'weights/CheXNet.pth')
+    torch.save(model, 'weights/CheXNet.pth')  #权重文件保存
 
