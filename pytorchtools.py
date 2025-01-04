@@ -45,7 +45,7 @@ class EarlyStopping:
             self.save_checkpoint(val_loss)
             self.counter = 0
 
-    # 没有写保存权重的部分，只是提示权重有下降
+    # 提示权重有下降
     def save_checkpoint(self, val_loss):
         '''Saves model when validation loss decrease.'''
         if self.verbose:
