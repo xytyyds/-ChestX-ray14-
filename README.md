@@ -1,2 +1,2 @@
-# -ChestX-ray14-
-基于ChestX-ray14 数据，采用pytorch框架实现的一个肺炎检测
+这是一个学校的大作业
+基于ChestX-ray14 数据，采用pytorch框架实现的一个胸部疾病检测系统
